@@ -71,3 +71,13 @@ img{
 /* .title-images{
   text-align: center;
 } */
+
+
+.icons{
+  margin-bottom: 2rem;
+
+}
+
+.icons:hover{
+  color: #373a40;
+}
